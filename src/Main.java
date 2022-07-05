@@ -9,8 +9,7 @@ public class Main {
 
         Kel.AndaOuCorre(Kel.Andar(6));
         Kel.Latir();
-
-
+        Kel.Latir();
+        Kel.Latir();
     }
-
 }
